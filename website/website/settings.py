@@ -25,7 +25,7 @@ SECRET_KEY = '*nld795^hydot=0_1&scf5yehh^^@%nbsg+2mn@8!9i26-q)^)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = '127.0.0.1', 'localhost ', '.ppawn.top']
+ALLOWED_HOSTS = [ '127.0.0.1', 'localhost ', '.ppawn.top']
 
 
 # Application definition
