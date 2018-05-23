@@ -1,0 +1,10 @@
+awesome-slugify==1.6.5
+Django==1.10.2
+django-haystack==2.6.1
+jieba==0.38
+Markdown==2.5.2
+Pygments==2.0.1
+pytz==2016.10
+regex==2018.2.21
+Unidecode==0.4.21
+Whoosh==2.7.4
